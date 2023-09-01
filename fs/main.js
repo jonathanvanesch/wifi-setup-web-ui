@@ -68,4 +68,4 @@ class App extends Component {
   }
 }
 
-render(html`<${App} title="Mongoose OS Configurator" />`, document.body);
+render(html`<${App} title="eClear WiFi Configurator" />`, document.body);
